@@ -1,0 +1,7 @@
+Experiment Statistics Summary
+==========================
+
+Total experiments: 100
+Overall mean: 9.79
+Overall standard deviation: 1.82
+Number of categories: 3
